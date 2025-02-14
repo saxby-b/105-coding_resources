@@ -1,1 +1,1 @@
-SkillCrush Coding Resources
+Skillcrush coding resources.
