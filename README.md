@@ -1,1 +1,1 @@
-Skillcrush coding resources.
+A compendium of code!
